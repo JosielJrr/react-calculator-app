@@ -52,4 +52,4 @@ No diretório do projeto, você pode executar:
 
 ## Nota Adicional
 
-- Este projeto foi desenvolvido como parte de um exercício de programação para aplicar conceitos básicos de React e gerenciamento de estado.
+- Este projeto foi desenvolvido como parte de um exercício de programação para aplicar conceitos básicos de React e gerenciamento de estado da [DIO](https://www.dio.me/).
